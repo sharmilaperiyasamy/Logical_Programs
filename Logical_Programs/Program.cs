@@ -9,3 +9,6 @@ Prim.Prime();
 
 Logical_Programs.Reverse revers = new Logical_Programs.Reverse();
 revers.Reverse_number();
+
+Logical_Programs.Coupon_Number coup = new Logical_Programs.Coupon_Number();
+coup.Coupon();
