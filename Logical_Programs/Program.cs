@@ -24,3 +24,6 @@ Console.WriteLine(" ");
 Logical_Programs.Vending_Machine.Vending();
 
 Logical_Programs.Day_Of_Week.dayOfWeek();
+
+Logical_Programs.Temperature_Conversion.Fahrenheit_to_Celsius();
+Logical_Programs.Temperature_Conversion.Celsius_to_Fahrenheit();
