@@ -15,3 +15,10 @@ coup.Coupon();
 
 Logical_Programs.StopWatch stop = new Logical_Programs.StopWatch();
 stop.Stop_Watch();
+
+
+Console.WriteLine("Programs for NUnit Testing");
+Console.WriteLine(" ");
+
+
+Logical_Programs.Vending_Machine.Vending();
