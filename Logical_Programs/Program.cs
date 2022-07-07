@@ -6,3 +6,6 @@ Per.Perfect();
 
 Logical_Programs.Prime_Number Prim = new Logical_Programs.Prime_Number();
 Prim.Prime();
+
+Logical_Programs.Reverse revers = new Logical_Programs.Reverse();
+revers.Reverse_number();
