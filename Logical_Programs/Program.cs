@@ -12,3 +12,6 @@ revers.Reverse_number();
 
 Logical_Programs.Coupon_Number coup = new Logical_Programs.Coupon_Number();
 coup.Coupon();
+
+Logical_Programs.StopWatch stop = new Logical_Programs.StopWatch();
+stop.Stop_Watch();
