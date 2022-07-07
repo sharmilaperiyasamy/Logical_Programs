@@ -22,3 +22,5 @@ Console.WriteLine(" ");
 
 
 Logical_Programs.Vending_Machine.Vending();
+
+Logical_Programs.Day_Of_Week.dayOfWeek();
