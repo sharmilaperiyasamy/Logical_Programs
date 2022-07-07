@@ -29,3 +29,5 @@ Logical_Programs.Temperature_Conversion.Fahrenheit_to_Celsius();
 Logical_Programs.Temperature_Conversion.Celsius_to_Fahrenheit();
 
 Logical_Programs.Monthly_Payment.cal_EMI();
+
+Logical_Programs.Square_Root.sqrt();
