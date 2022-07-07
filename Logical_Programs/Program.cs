@@ -33,3 +33,5 @@ Logical_Programs.Monthly_Payment.cal_EMI();
 Logical_Programs.Square_Root.sqrt();
 
 Logical_Programs.Binary.toBinary();
+
+Logical_Programs.Nibble.swap_nibble();
